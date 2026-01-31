@@ -130,6 +130,4 @@ Este projeto usa bibliotecas de terceiros:
 - SDL2: [Zlib License](https://www.libsdl.org/license.php)
 - stb_image_write: Public Domain
 
-## Autor
-
 Desenvolvido com SDL2 e Windows GDI.
